@@ -5,3 +5,4 @@ test3
 =======
 >>>>>>> parent of b814118 (test2)
 fourth
+some HOT fix
