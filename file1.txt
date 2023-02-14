@@ -1,3 +1,7 @@
 hello git
+<<<<<<< HEAD
 test2
 test3
+=======
+>>>>>>> parent of b814118 (test2)
+fourth
