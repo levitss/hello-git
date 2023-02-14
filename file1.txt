@@ -5,4 +5,8 @@ test3
 =======
 >>>>>>> parent of b814118 (test2)
 fourth
+<<<<<<< HEAD
 some HOT fix
+=======
+add 1
+>>>>>>> 62e0e3c (t1)
